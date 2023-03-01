@@ -10,7 +10,7 @@ import static io.qameta.allure.Allure.step;
 public class LambdaStepTest {
 
     private final static String REPOSITORY = "selenide/selenide";
-    private final static int NUMBER = 2038;
+    private final static int NUMBER = 2172;
 
     @Test
     public void testRepositoryIssue (){
