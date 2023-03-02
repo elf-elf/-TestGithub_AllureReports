@@ -1,9 +1,9 @@
 ## Проект с автотестами для сайта: github.com
 ### Technology stack:
-:small_black_diamond: Java  
-:small_black_diamond: Gradle  
-:small_black_diamond: Junit5  
-:small_black_diamond: Selenide  
+- Java  
+- Gradle  
+- Junit5  
+- Selenide  
 ## Allure Report [Реализованы разные подходы: Lambda Steps, Annotated Steps + Attachments, Parameterized]  
 ### Реализованы проверки:    
  :small_blue_diamond: Открытие главной страницы github.com  
