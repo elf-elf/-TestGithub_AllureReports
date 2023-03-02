@@ -6,8 +6,8 @@
 - Selenide  
 ## Allure Report [Реализованы разные подходы: Lambda Steps, Annotated Steps + Attachments, Parameterized]  
 ### Реализованы проверки:    
- :white_circle: Открытие главной страницы github.com  
- :white_circle: Поиск репозитория  
- :white_circle: Переход в репозиторий  
- :white_circle: Поиск и переход в раздел Issues  
- :white_circle: Проверка, что на странице есть Issue с определенным номером  
+ :small_blue_diamond: Открытие главной страницы github.com  
+ :small_blue_diamond: Поиск репозитория  
+ :small_blue_diamond: Переход в репозиторий  
+ :small_blue_diamond: Поиск и переход в раздел Issues  
+ :small_blue_diamond: Проверка, что на странице есть Issue с определенным номером  
