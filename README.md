@@ -1,10 +1,11 @@
-## Проект с автотестами для сайта: github.com
+# Проект с автотестами для сайта: github.com
 Technology stack:
 - Java  
 - Gradle  
 - Junit5  
 - Selenide  
-## Allure Report [Реализованы разные подходы: Lambda Steps, Annotated Steps + Attachments, Parameterized]
+# Allure Report [Реализованы разные подходы: Lambda Steps, Annotated Steps + Attachments, Parameterized]
+
 Реализованы проверки:  
  :white_circle: Открытие главной страницы github.com  
  :white_circle: Поиск репозитория  
